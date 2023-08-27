@@ -1,0 +1,7 @@
+configparser
+numpy
+matplotlib
+pandas
+pympler
+xlwt
+xlrd
